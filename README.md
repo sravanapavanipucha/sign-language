@@ -125,7 +125,7 @@ This project is open-source and available under the MIT License.
 ## 👤 Author
 
 
-Email: \[[mounikaundela999@example.com](mailto:your.email@example.com)]
+Email: \[[sravanapavanipucha@gmail.com](mailto:your.email@example.com)]
 GitHub: \[https://github.com/Mounika9929/Sign-Language]
 
 ---
